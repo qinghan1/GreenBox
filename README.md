@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/packagist/l/inhere/console.svg)](LICENSE)
 [![Language](https://img.shields.io/badge/language-shell-green.svg)](README.md)
 
- :game_die: 娱乐项目，使用 Crontab 定时提交 Commits。点亮绿格子；对就是绿
+ :game_die: 娱乐项目，使用 Crontab 定时提交 Commits。
  
 ## use 
 
@@ -29,9 +29,6 @@
     
     screen -d -m sh loop.sh 31
     
-## 效果
-
-![](https://cdn.jsdelivr.net/gh/jader/resource/images/2021/202203281629220.png)
 
 
  
